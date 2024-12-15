@@ -66,5 +66,8 @@ Navigate to the IAM dashboard and on the left plane click “Roles”, then “C
 
 Proceed to select “AWS service”. Our use case will involve using an EC2 Instance to access our DynamoDB table, so we will select “EC2”, then click “Next”.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/7624d2eaafd5252e720ea5b6ff3146cc68b53410/Screenshot%202024-12-14%20105108.png)
+
+Now let’s search through the AWS managed IAM policies. These policies cover common use cases and are provided by AWS in your account. Search “DynamoDB”, select the “DynamoDBReadOnlyAccess” policy, then click “Next”.
+
 
