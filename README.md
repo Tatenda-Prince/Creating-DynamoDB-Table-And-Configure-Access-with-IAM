@@ -101,7 +101,17 @@ Click on the “Create new key pair” to create a new key pair, then enter your
 
 Click on “Create key pair”, as show below. The “.pm” file should automatically start downloading on your local system. Locate the file after the download is complete and store it in a safe directory. Later, we can use this key pair to connect to our EC2 Instance through ssh.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/615821974c5028f1eb4d284e72ee6d7a4746db3d/Screenshot%202024-12-14%20110310.png)
+
+Continue to the Network settings —
+
+We will use our default VPC. Also, we will keep “Auto-assign public IP” enabled, as this allows our EC2 Instance to automatically receive a public IP address to enable it to connect to the internet upon launch.
+
+We will leave these setting in the default state, as seen below.
+
 ![image alt]()
+
+
 
 
 
