@@ -24,7 +24,13 @@ Each item in a DynamoDB table has a unique primary key, which consists of a part
 I love watching Football and I follow the English premier league games religiously and i support Chelsea Football club. I decided to create a Amazon DynamoDB tanle to store my favorite players and their position on the field and give access to others to view the items in the table.
 
 # Step 1: Create and populate new DynamoDB table
-##Create DynamoDB table
+Create DynamoDB table
 Navigate to the DynamoDB dashboard and click “Create table”, as show below.
 
-![image alt] ()
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/d6689f3fa3eacd420825ec55506edd3f505d35ba/Screenshot%202024-12-14%20123600.png)
+
+Proceed to name your DynamoDB table, then provide a Partition key and optional Sort key. Note, both keys create a composite primary key, composed of the two attributes. All data under a Partition key is sorted by the Sort key value.
+
+For this demonstration, I have chosen “Player Position” as my Partition key and “Players” as my Sort key because Grandma has many favorite Superheroes in the same movies.
+
+![image alt]()
