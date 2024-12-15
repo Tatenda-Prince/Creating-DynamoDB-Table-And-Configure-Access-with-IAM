@@ -87,6 +87,12 @@ You should now see your Amazon EC2 configuration options page. Note, most of the
 
 We will select the “Amazon Linux 2 AMI”, as seen below.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/2267274f3f90702b736639d78613e7646a5e211c/Screenshot%202024-12-14%20110130.png)
+
+Proceed to the Instance Type options —
+
+We will choose the “t2.micro” which is part of the AWS free tier.
+
 ![image alt]()
 
 
