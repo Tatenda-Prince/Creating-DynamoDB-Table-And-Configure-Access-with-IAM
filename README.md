@@ -74,7 +74,16 @@ Now let’s search through the AWS managed IAM policies. These policies cover co
 
 The policy below, written in JSON, “Allows” the assuming of the role “Action” from the EC2 Instance “Service”. Proceed by naming your IAM role, then clicking “Create role”.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/b481adf5be6aaa456f6422734d13c8e2f392de95/Screenshot%202024-12-14%20105618.png)
+
+# Launch EC2 Instance
+We need to create an EC2 Instance which we will connect into to use the AWS CLI to scan our DynamoDB table.
+
+Let’s navigate to the EC2 dashboard and click “Launch instance”, as seen below.
+
 ![image alt]()
+
+
 
 
 
