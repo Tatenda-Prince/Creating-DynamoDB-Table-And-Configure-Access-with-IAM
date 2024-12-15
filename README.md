@@ -20,7 +20,7 @@ In Amazon DynamoDB, a partition key is a special type of primary key used to dis
 
 Each item in a DynamoDB table has a unique primary key, which consists of a partition key and an optional sort key, which is used to sort the data within a partition.
 
-##Use Case
+#Use Case
 I love watching Football and I follow the English premier league games religiously and i support Chelsea Football club. I decided to create a Amazon DynamoDB tanle to store my favorite players and their position on the field and give access to others to view the items in the table.
 
 # Step 1: Create and populate new DynamoDB table
