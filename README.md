@@ -52,5 +52,15 @@ You can now begin populating your attributes with the corresponding values . In 
 
 After adding all items to the DynamoDB table, you can preview the table and all its items, as show below. This MarvelSuperhero table has been populated with 11 Marvel Superheroes from different Movies.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/44a33e6befcf8ab5fb8027bf44960428c3bd29a3/Screenshot%202024-12-14%20104422.png)
+
+Now that we’ve created and populated our DynamoDB table with our items, we can proceed to Step 2: IAM Role!
+
+# Step 2: Launch EC2 with IAM role to scan DynamoDB table
+
+# Create IAM Role to allow read-only access authorization
+
+Navigate to the IAM dashboard and on the left plane click “Roles”, then “Create role”.
+
 ![image alt]()
 
