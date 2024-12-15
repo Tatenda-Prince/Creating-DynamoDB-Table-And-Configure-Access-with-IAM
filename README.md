@@ -124,6 +124,10 @@ Continue to the “Summary”, then click “Launch instance”.
 # Attach IAM Role to EC2 Instance
 We now need to attach our DynamoDB read-only access IAM role to our EC2 to allow us to scan our DynamoDB table. Proceed by navigating to your EC2 Instance and selecting it. Click “Actions”, “Security”, then “Modify IAM role”, as shown below.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/08af2017740d67bd4e2040315d1ffd9c087e726d/Screenshot%202024-12-14%20110528.png)
+
+Choose the IAM role previously created, then “Update IAM role”.
+
 ![image alt]()
 
 
