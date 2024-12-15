@@ -93,6 +93,14 @@ Proceed to the Instance Type options —
 
 We will choose the “t2.micro” which is part of the AWS free tier.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/288819921e622eb124c837425025de0094183c13/Screenshot%202024-12-14%20110145.png) 
+
+Proceed to the Key pair option —
+
+Click on the “Create new key pair” to create a new key pair, then enter your desired key pair name. Select “RSA” for key pair type and “.pem” for private key file format.
+
+Click on “Create key pair”, as show below. The “.pm” file should automatically start downloading on your local system. Locate the file after the download is complete and store it in a safe directory. Later, we can use this key pair to connect to our EC2 Instance through ssh.
+
 ![image alt]()
 
 
