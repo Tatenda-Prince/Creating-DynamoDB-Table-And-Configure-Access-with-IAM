@@ -109,7 +109,16 @@ We will use our default VPC. Also, we will keep “Auto-assign public IP” enab
 
 We will leave these setting in the default state, as seen below.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/e5e9e39acc64dea1e61de1c10e422c30b274d0f6/Screenshot%202024-12-14%20110344.png)
+
+Continue to the Firewall (Security Group) settings —
+
+We will allow “SSH” traffic to enable us to securely connect to our EC2 Instance and also “HTTPS” and “HTTP” so we can send and received on our browser over the internet.
+
+Note — Allowing from “Anywhere
+
 ![image alt]()
+
 
 
 
