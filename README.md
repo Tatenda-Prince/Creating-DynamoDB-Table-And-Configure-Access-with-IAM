@@ -48,5 +48,9 @@ Select your newly created table. On the left pane, click “Explore items”, th
 
 You can now begin populating your attributes with the corresponding values . In my example, I added the Player “Sanchez” from the “Goal Keeper” position.
 
-![iamge alt]()
+![iamge alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/b6a2f3893c659bcdf6f891f3bdc421ffbac6b40c/Screenshot%202024-12-14%20104015.png)
+
+After adding all items to the DynamoDB table, you can preview the table and all its items, as show below. This MarvelSuperhero table has been populated with 11 Marvel Superheroes from different Movies.
+
+![image alt]()
 
