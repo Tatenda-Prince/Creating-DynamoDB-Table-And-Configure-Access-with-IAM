@@ -155,7 +155,7 @@ To scan your DynamoDB table, run the AWS CLI command below with the name of your
 
 If the command ran successfully without any errors, the items in your table should be displayed, as show below.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/86aa83c1384bfd4287382e81f13e588ee5873208/Screenshot%202024-12-14%20111821.png)
 
 
 # Success!
