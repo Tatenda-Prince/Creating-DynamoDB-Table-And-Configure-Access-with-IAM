@@ -62,5 +62,9 @@ Now that we’ve created and populated our DynamoDB table with our items, we can
 
 Navigate to the IAM dashboard and on the left plane click “Roles”, then “Create role”.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/30fa60ae4f25b0729fd72cd2726f5cf29f965766/Screenshot%202024-12-14%20104951.png)
+
+Proceed to select “AWS service”. Our use case will involve using an EC2 Instance to access our DynamoDB table, so we will select “EC2”, then click “Next”.
+
 ![image alt]()
 
