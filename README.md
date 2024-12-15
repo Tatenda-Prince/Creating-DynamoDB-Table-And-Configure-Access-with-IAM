@@ -44,5 +44,9 @@ Your table should now be created, however, you may need to wait a few minutes un
 ## Add items to DynamoDB table
 Select your newly created table. On the left pane, click “Explore items”, then “Create item”.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/62ba75d203ac80be644c3f5ddb11a08e8e62d92c/Screenshot%202024-12-14%20103832.png)
+
+You can now begin populating your attributes with the corresponding values . In my example, I added the Player “Sanchez” from the “Goal Keeper” position.
+
+![iamge alt]()
 
