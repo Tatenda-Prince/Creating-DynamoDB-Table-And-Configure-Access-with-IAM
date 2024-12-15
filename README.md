@@ -117,6 +117,13 @@ We will allow “SSH” traffic to enable us to securely connect to our EC2 Inst
 
 Note — Allowing from “Anywhere
 
+![image alt](https://github.com/Tatenda-Prince/Creating-DynamoDB-Table-And-Configure-Access-with-IAM/blob/97022b1cca9a5136b114cf0bd803f46a1c98d58b/Screenshot%202024-12-14%20110418.png)
+
+Continue to the “Summary”, then click “Launch instance”.
+
+# Attach IAM Role to EC2 Instance
+We now need to attach our DynamoDB read-only access IAM role to our EC2 to allow us to scan our DynamoDB table. Proceed by navigating to your EC2 Instance and selecting it. Click “Actions”, “Security”, then “Modify IAM role”, as shown below.
+
 ![image alt]()
 
 
